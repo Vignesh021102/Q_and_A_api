@@ -34,7 +34,4 @@ A: 0
 
 
 
-total score is 0, I own a house, but my Savings may not be sufficient to meet all my financial goals
-9 if I have sufficient savings and my current savings rate is adequate to meet all my financial goals
-10 if I have sufficient savings and I own property/properties, My current saving is more than sufficient to meet the financial goal.
-A: 7 if I have some Savings, I own a house, but my Savings may not be sufficient to meet all my financial goals.
+total score is 9

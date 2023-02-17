@@ -3,8 +3,7 @@ import openai
 import re
 
 
-openai.api_key = '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'
-
+openai.api_key = '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'
 start_sequence = "\nA:"
 restart_sequence = "\n\nQ: "
 
