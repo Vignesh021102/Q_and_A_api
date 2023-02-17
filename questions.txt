@@ -1,0 +1,40 @@
+Q:Which of the following best describes his current stage of life? and options are,
+5 if Single with few financial burdens, Ready to accumulate wealth for future short term and long term goals,
+3 if A couple without children, Preparing  for the future by establishing a home,Expecting to have or already have a high purchase rate of household and consumer items,
+1 if Young family with a home, You have a mortgage and childcare costs and maintain only small cash balances,
+5 if Mature family, You are in your peak earning years and your mortgage is under control, You both work and you may or may not have children that are growing up or have left home,You’re ready to start thinking about your retirement years,
+3 if Preparing for retirement, You own your home and have few financial burdens, you want to ensure you can afford a comfortable retirement,
+1 if Retired, You rely on existing funds and investments to maintain your lifestyle in retirement, You may already be receiving a Government pension and/or Superannuation pension,
+4 if Current income is more than sufficient to support all my expenses and savings requirement,
+1 if Current Income is not sufficient to support all expenses and savings requirement.
+A: 3
+
+Q:How long he's been investing, not counting his bank deposit and options are,
+1 if he's investing for less than 5 years,
+3 if he's investing for five years or above five to seven years,
+5 if he's investing for more than 7 years.
+A: 5
+
+Q:his monthly saving is and options are,
+1 if Less than 5 percentage of his Monthly Income,
+2 if 5 percentage to 15 percentage of his Monthly Income, 
+3 if 15 percentage to 30 percentage of his Monthly Income,
+7 if 30 percentage to 50 percentage of his Monthly Income,
+9 if 50 percentage and Above.
+A: 1
+
+Q:do you describe your current financial status and options are,
+1 if Not having any savings, other than balance is SB a/c and PF
+3 if I have some savings mostly in SB a/c and FDs, but it won't be suffient to meet my both long term and short term goals
+5 if I have some savings and I also have the habit of saving monthly, but I don’t have own house, and my savings are not sufficiently funded to meet all my financial goal
+7 if I have some Savings, I own a house, but my Savings may not be sufficient to meet all my financial goals
+9 if I have sufficient savings and my current savings rate is adequate to meet all my financial goals
+10 if I have sufficient savings and I own property/properties, My current saving is more than sufficient to meet the financial goal.
+A: 0
+
+
+
+total score is 0, I own a house, but my Savings may not be sufficient to meet all my financial goals
+9 if I have sufficient savings and my current savings rate is adequate to meet all my financial goals
+10 if I have sufficient savings and I own property/properties, My current saving is more than sufficient to meet the financial goal.
+A: 7 if I have some Savings, I own a house, but my Savings may not be sufficient to meet all my financial goals.
